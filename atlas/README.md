@@ -1,4 +1,4 @@
-# Atlas — site institucional | versão 2.0
+# Atlas — site institucional | versão 2
 
 ## Melhorias desta versão
 - Manifesto em cinza grafite, mais discreto.

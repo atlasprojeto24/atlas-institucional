@@ -76,3 +76,14 @@
 .care-card p{font-size:13px;color:#bdc4c1}
 .fineprint{font-size:11px;line-height:1.7;color:var(--steel);margin-top:18px}
 @media(max-width:760px){.product-grid,.care-grid{grid-template-columns:1fr}.product-card>p{min-height:0}.product-foot{align-items:flex-start;flex-direction:column}.hero-meta{gap:10px;flex-direction:column}}
+
+/* Homepage v3 — manifesto integrado às frentes de atuação */
+.manifesto-ecosystem{padding-top:68px;padding-bottom:72px}
+.manifesto-copy{max-width:900px;padding:0 0 34px;border-bottom:1px solid var(--line);margin-bottom:30px}
+.manifesto-copy h2{font:600 clamp(34px,5vw,58px)/1.02 var(--display);letter-spacing:-.05em;margin:14px 0 18px;max-width:780px}
+.manifesto-copy p{max-width:880px;color:#c0c6c4;font-size:15px;line-height:1.75}
+.manifesto-copy p:last-child{margin-bottom:0}
+.fronts-label{margin:0 0 18px;color:var(--lime)}
+.manifesto-ecosystem .ecosystem-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+.manifesto-ecosystem .unit-card p{font-size:13px;line-height:1.7}
+@media(max-width:700px){.manifesto-ecosystem{padding-top:48px;padding-bottom:48px}.manifesto-copy{padding-bottom:26px;margin-bottom:24px}.manifesto-copy h2{font-size:clamp(32px,9vw,44px)}.manifesto-copy p{font-size:14px}.manifesto-ecosystem .ecosystem-grid{grid-template-columns:1fr}.manifesto-ecosystem .unit-card{min-height:unset;gap:24px}}

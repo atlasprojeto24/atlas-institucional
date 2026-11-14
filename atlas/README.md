@@ -51,3 +51,6 @@ Projeto Pages independente ligado ao repositório `atlas-sites`; branch `main`; 
 - Atlas Design apresenta Identidade Visual Essencial (R$ 590), Branding Completo (R$ 1.990), Kit de Comunicação Digital (R$ 490) e Apresentações Corporativas (R$ 490).
 - Prazos apresentados nas páginas são estimativas em dias úteis, condicionadas ao recebimento de briefing e materiais completos.
 - O site não apresenta detalhes operacionais internos, apenas informações relevantes ao cliente.
+
+
+Atualização da página inicial: manifesto e frentes integrados; Atlas Academy apresentado como iniciativa educacional; acessos de contato centralizados na página Fale Conosco.
